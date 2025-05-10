@@ -10,6 +10,7 @@ Expanding on these widgets should be easy. Get started here: https://docs.rainme
 - Network
 - RAM
 - Storage
+- UPS
 
 ## External Plugins
 
